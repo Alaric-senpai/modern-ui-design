@@ -33,7 +33,7 @@ Implementation notes: OTP boxes 48x56, radius 12, auto-advance focus, paste supp
 8. **My Appointments**: tabs Upcoming / Completed / Cancelled, cards with Reschedule and Cancel actions.
 9. Optional **Chat with doctor**: bubble list, quick reply chips, input bar with attach and send.
 
-## 3. E-commerce / delivery flow (reference: grocery images)
+## 3. E-commerce / delivery flow (reference: `mobile-grocery-onboarding-home-categories.jpg`, `mobile-grocery-tracking-order-profile.jpg`)
 
 Onboarding -> Home (location, search, hero offer, category icons, top picks) -> Categories list (thumbnail, name, item count, chevron) -> Product list/detail (image, price, size, add button/quantity stepper) -> Cart (line items with steppers, promo code, fees breakdown, sticky Checkout with total) -> Checkout (address, payment, summary) -> Order tracking (map + stepper + courier) -> Delivered receipt (reorder, invoice) -> Profile (order status shortcuts: All, Processing, Delivered, Cancelled with tinted icons; wallet balance; refer & earn).
 

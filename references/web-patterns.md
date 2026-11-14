@@ -28,23 +28,23 @@ Not every page needs all 13. A portfolio or product page can cut 5-9 and swap in
 
 ## 3. Hero variants
 
-**A. Split hero (default).** Left: eyebrow or small badge, H1 (56-72, bold, 2-3 lines, one word emphasised), 1-2 line subtext muted, button row (primary filled + secondary outline or "Watch Video" ghost with play circle), trust row (3 small icon+label pairs or avatar stack + "Trusted by thousands"). Right: large rounded image (radius 24-32) with 1-2 floating badges overlapping its edge ("100% Satisfaction Guarantee" circle seal, rating chip, property mini-card). Background white with a faint tint shape behind the image.
+**A. Split hero (default, reference: `web-cleaning-navy-yellow.jpg`, `web-realestate-forest-green.jpg`).** Left: eyebrow or small badge, H1 (56-72, bold, 2-3 lines, one word emphasised), 1-2 line subtext muted, button row (primary filled + secondary outline or "Watch Video" ghost with play circle), trust row (3 small icon+label pairs or avatar stack + "Trusted by thousands"). Right: large rounded image (radius 24-32) with 1-2 floating badges overlapping its edge ("100% Satisfaction Guarantee" circle seal, rating chip, property mini-card). Background white with a faint tint shape behind the image.
 
-**B. Full-bleed image hero (travel, destinations).** Large photo with dark gradient overlay left-to-right; white H1 with one word in accent colour; subtext; primary + ghost buttons; a white **search widget** overlapping the hero's bottom edge (tabs: Flights, Hotels, Packages, Things to do; fields with icons: From, Check-in, Check-out, Travelers; accent Search button).
+**B. Full-bleed image hero (reference: `web-travel-green-wavy.jpg`, `web-travel-orange-dense.jpg`).** Large photo with dark gradient overlay left-to-right; white H1 with one word in accent colour; subtext; primary + ghost buttons; a white **search widget** overlapping the hero's bottom edge (tabs: Flights, Hotels, Packages, Things to do; fields with icons: From, Check-in, Check-out, Travelers; accent Search button).
 
-**C. Dark brand hero (fintech/SaaS).** Deep green/navy gradient, centred H1 in white with lime highlight, subtext, two pill buttons (lime solid + outline), two overlapping phone mockups or dashboard cards below showing balance, ring chart and bars. Followed by a logo row on white.
+**C. Dark brand hero (reference: `web-fintech-dark-green-lime.jpg`).** Deep green/navy gradient, centred H1 in white with lime highlight, subtext, two pill buttons (lime solid + outline), two overlapping phone mockups or dashboard cards below showing balance, ring chart and bars. Followed by a logo row on white.
 
-**D. Bento/pill hero (modern real estate, agencies).** A dark rounded panel (radius 32) with big white headline on the left and a photo card with floating mini-card on the right, both with rounded "notch" corners; below, a centred section "Let's Find Your Dream Home." flanked by small circular floating photos, then a row of pill-shaped tiles forming a sentence ("We" [photo] "Find" [lime arrow pill] "Home" [photo]).
+**D. Bento/pill hero (reference: `web-realestate-bento-pills.jpg`).** A dark rounded panel (radius 32) with big white headline on the left and a photo card with floating mini-card on the right, both with rounded "notch" corners; below, a centred section "Let's Find Your Dream Home." flanked by small circular floating photos, then a row of pill-shaped tiles forming a sentence ("We" [photo] "Find" [lime arrow pill] "Home" [photo]).
 
-**E. Editorial hero (interiors, luxury).** Serif H1 on the left in near-black, small descriptor, black pill button + play link, and a tall rounded image right. Stats row under (12+ years, 850+ projects, 95%, 28+) in light separators.
+**E. Editorial hero (reference: `web-interior-serif-monochrome.jpg`).** Serif H1 on the left in near-black, small descriptor, black pill button + play link, and a tall rounded image right. Stats row under (12+ years, 850+ projects, 95%, 28+) in light separators.
 
-**F. Search-first hero (real estate/listings).** H1 "Find Your Dream Property Today", property image right, a dark rounded search bar (Location, Type, Price, Bedrooms + search icon button) overlapping the bottom, then a 5-item benefit strip.
+**F. Search-first hero (reference: `web-realestate-navy-gold.jpg`, `web-realestate-forest-green.jpg`).** H1 "Find Your Dream Property Today", property image right, a dark rounded search bar (Location, Type, Price, Bedrooms + search icon button) overlapping the bottom, then a 5-item benefit strip.
 
 ## 4. Trust strip
 
 4 items in a row below the hero: 32-40px tinted icon + 13-14px label (e.g. Eco-Friendly Products, Verified & Trained Cleaners, Satisfaction Guaranteed; Best Price Guarantee, 24/7 Support, Safe & Secure Bookings). Divide with thin vertical lines or none. Alternatively a "Trusted by innovative companies" logo row in grey.
 
-## 5. Services / offering grid (the signature section)
+## 5. Services / offering grid (the signature section, reference: `web-cleaning-navy-yellow.jpg`, `web-spa-cream-forest-serif.jpg`)
 
 - Wrap the section in a **dark brand rounded container** (navy or forest, radius 28-32, padding 40-56). Left column: H2 white 36-44 with short paragraph and an accent "View All Services" button. Right: 3x2 grid of **white cards** (radius 16-20, padding 20) each with a tinted line icon, title 17/600, one-line description 13-14 muted.
 - Light variant: white page, cards with border + shadow, icons in tint circles, "Learn more >" links.
@@ -66,7 +66,7 @@ A full-width rounded strip (brand colour or dark) with 3-4 stats: big number 36-
 
 3 or 4 steps in a row: numbered circle or "01/02/03" in primary, bold title, short description; connecting line or arrows between steps on desktop; vertical stack on mobile. Often paired with an image on one side (interior renders, a woman with cleaning supplies).
 
-## 10. Pricing
+## 10. Pricing (reference: `web-cleaning-navy-yellow.jpg`, `web-fintech-dark-green-lime.jpg`)
 
 - 3 cards, centred heading. Middle card is **highlighted**: filled with brand/accent colour (yellow on navy sites, dark green on lime sites) with a "Most Popular" ribbon, slightly larger scale (1.04-1.06).
 - Card anatomy: plan name, big price `$79` with muted `/month` or `/visit`, 4-6 feature rows with check icons, full-width button (filled on the highlighted card, outline on others).
@@ -77,7 +77,7 @@ A full-width rounded strip (brand colour or dark) with 3-4 stats: big number 36-
 
 Single large white card with soft shadow: avatar (circle 56), name and role, 5 amber stars, quote in 18-20/500, left/right arrow buttons and pagination dots. Alternative: 3 cards in a row with avatar, stars, quote; accompanied by a photo of happy customers on one side.
 
-## 12. Listings and cards (property, travel, products)
+## 12. Listings and cards (reference: `web-realestate-navy-gold.jpg`, `web-travel-green-wavy.jpg`, `web-travel-orange-dense.jpg`)
 
 - Property card: image (radius 16) with badge "For Sale"/"For Rent" top-left, heart top-right; price bold in primary or dark; title; location with pin; meta row (beds, baths, sqft) with tiny icons; agent avatar optional.
 - Destination card: tall image with gradient, name, country, price from "$899", duration chips (5 Days, 4 Nights), "Book now" link.
@@ -94,18 +94,18 @@ Rounded (radius 24-32) brand-coloured panel, headline 32-40 white, 1 line subtex
 
 Dark brand colour (navy/forest/black) or very light. Columns: brand + short blurb + social icons (circles), Quick Links, Services/Destinations, Contact (phone, email, address with icons). Bottom row: copyright left, Privacy and Terms right, thin divider above.
 
-## 15. Domain style variants
+## 15. Domain style variants (see `references/gallery.md` for full image list)
 
-| Domain | Palette | Type | Special devices |
-|---|---|---|---|
-| Cleaning/home services | Navy + yellow | Bold geometric sans | Seal badge, dark services container, pricing with yellow middle tier |
-| Travel (premium) | Forest + amber, cream bg | Sans, script accent | Wavy section dividers, polaroid images, newsletter on ocean photo, search widget |
-| Travel (marketplace) | Orange + navy + sky | Sans | Category icons row, countdown offer banner, filter tabs on destination cards, dense layout |
-| Fintech/SaaS | Dark green + lime | Modern grotesk | Phone mockups, ring/bar charts, metrics cards, FAQ accordion, "Trusted by" logos |
-| Interiors/luxury | Monochrome warm neutrals | Serif headings | Large photography, numbered process, press logos (Forbes, Dezeen), minimal chrome |
-| Wellness/spa | Cream + forest green | Serif headings | Arch/organic image shapes, leaf illustrations, gift card block, booking form |
-| Real estate (corporate) | Navy + gold or forest | Sans | Search bar, category grid, agents, city cards, app download |
-| Real estate (modern) | Dark navy + lime | Sans | Bento panels, pill sentence row, table-style "Recent Initiatives" list |
+| Domain | Palette | Type | Special devices | Reference image |
+|---|---|---|---|---|
+| Cleaning/home services | Navy + yellow | Bold geometric sans | Seal badge, dark services container, pricing with yellow middle tier | `web-cleaning-navy-yellow.jpg` |
+| Travel (premium) | Forest + amber, cream bg | Sans, script accent | Wavy section dividers, polaroid images, newsletter on ocean photo, search widget | `web-travel-green-wavy.jpg` |
+| Travel (marketplace) | Orange + navy + sky | Sans | Category icons row, countdown offer banner, filter tabs on destination cards, dense layout | `web-travel-orange-dense.jpg` |
+| Fintech/SaaS | Dark green + lime | Modern grotesk | Phone mockups, ring/bar charts, metrics cards, FAQ accordion, "Trusted by" logos | `web-fintech-dark-green-lime.jpg` |
+| Interiors/luxury | Monochrome warm neutrals | Serif headings | Large photography, numbered process, press logos (Forbes, Dezeen), minimal chrome | `web-interior-serif-monochrome.jpg` |
+| Wellness/spa | Cream + forest green | Serif headings | Arch/organic image shapes, leaf illustrations, gift card block, booking form | `web-spa-cream-forest-serif.jpg` |
+| Real estate (corporate) | Navy + gold or forest | Sans | Search bar, category grid, agents, city cards, app download | `web-realestate-navy-gold.jpg`, `web-realestate-forest-green.jpg` |
+| Real estate (modern) | Dark navy + lime | Sans | Bento panels, pill sentence row, table-style "Recent Initiatives" list | `web-realestate-bento-pills.jpg` |
 
 ## 16. Responsive rules
 

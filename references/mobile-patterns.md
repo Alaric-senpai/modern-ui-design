@@ -4,7 +4,7 @@ Contents: global frame, onboarding/splash, home/dashboard, search and results, c
 
 Design at 390x844 (iPhone 14) logical size; keep layouts fluid for 360-430 wide. Honour safe areas.
 
-## 1. Global frame
+## 1. Global frame (reference: `mobile-absensiswa-attendance-10-screens.jpg`, `mobile-egypt-guide-search-bookings-profile.jpg`)
 
 - Status bar area respected; screen background = page bg token.
 - Standard header (inner screens): back arrow (left, 24px), centred title 17-18/600, optional right icon (bookmark, share, heart, calendar, filter). Height 56.
@@ -31,7 +31,7 @@ Anatomy (top to bottom):
 
 Hero variants (see `mobile-onboarding-hero-variants-abc.jpg`): A = smiling person holding the product, B = pure product basket close-up, C = hands exchanging product with category chips below. Offer A/B/C when the user wants options; person-led (A) feels friendliest, product-led (B) feels most premium.
 
-## 3. Home / dashboard
+## 3. Home / dashboard (reference: `mobile-egypt-guide-search-bookings-profile.jpg`, `mobile-before-after-redesign.jpg`, `mobile-pet-care-warm-neutral.jpg`, `mobile-grocery-onboarding-home-categories.jpg`)
 
 Compose from these blocks; choose 4-6, in this order:
 
@@ -47,7 +47,7 @@ Compose from these blocks; choose 4-6, in this order:
 
 Commerce home extras: delivery location selector at top ("Deliver to Home - 42, Green Street v"), category icon row (circles), "Top Picks For You" product grid with + add button (circle, primary), value-prop strip ("Best Prices", "Wide Range", "On-Time Delivery").
 
-## 4. Search and results
+## 4. Search and results (reference: `mobile-egypt-guide-results-saved-detail.jpg`)
 
 - Header with back arrow and brand/logo; heading "Find the right service in Egypt" 24/700 muted subtitle line of categories.
 - Search input with clear (x) button once typed.
@@ -57,7 +57,7 @@ Commerce home extras: delivery location selector at top ("Deliver to Home - 42, 
 - Result card (horizontal): 84-96px thumbnail left (radius 14) with optional green "Top Rated" badge overlay; right column: title 16/600, location row (pin icon + muted text), rating row (star, score, reviews), up to 2 tag chips ("General Hospital", "24/7 Emergency"), price "From $50"; heart top-right; chevron bottom-right.
 - Spacing 12 between cards; cards white with soft border.
 
-## 5. Detail page (place/doctor/product/property)
+## 5. Detail page (reference: `mobile-egypt-guide-results-saved-detail.jpg`, `mobile-telehealth-booking-flow.jpg`, `mobile-property-listings-purple.jpg`)
 
 1. Full-bleed hero image (height ~220-260) with overlay icon buttons: back (left), share + heart (right); image counter "1/5" bottom-right. Image bottom corners rounded or content sheet overlapping with radius 28.
 2. Title 22/700, location row, rating row, and a "Verified Provider" pill.
@@ -66,14 +66,14 @@ Commerce home extras: delivery location selector at top ("Deliver to Home - 42, 
 5. Booking selectors: horizontal date strip (day name, number; selected = solid primary tile) and time-slot chips grouped Morning/Afternoon/Evening.
 6. **Sticky bottom CTA**: "Book Appointment ->" or "Book Now" full width, primary, over a white bar with top border and safe-area padding. For commerce, price on the left and Add to Cart button on the right.
 
-## 6. Saved / Bookings lists
+## 6. Saved / Bookings lists (reference: `mobile-egypt-guide-search-bookings-profile.jpg`, `mobile-egypt-guide-results-saved-detail.jpg`)
 
 - Top tabs as pills: All, Upcoming, Completed, Cancelled (selected solid primary). Calendar icon top-right to switch to calendar view.
 - Booking row card: left 64-72px thumbnail, a category tag chip (tinted by category: Education purple, Medical green, Business blue, Tourism orange) above the title, subtitle line, date and time with small icons, status pill bottom-left, chevron right.
 - Saved card: bigger thumbnail, category tag, title, location, meta line (e.g. "Application Deadline: 30 Nov 2025"), heart filled red top-right, two buttons side by side: **View Details** (primary solid) and **Remove** (outline).
 - Section filters in a chip row under the title "Your favorite services, all in one place".
 
-## 7. Profile and settings
+## 7. Profile and settings (reference: `mobile-egypt-guide-search-bookings-profile.jpg`, `mobile-absensiswa-attendance-10-screens.jpg`, `mobile-grocery-tracking-order-profile.jpg`)
 
 - Profile header: gradient/photo banner (landmark or abstract) with rounded bottom, avatar 72-88px with white ring and small camera badge, name 20/700, role line "Traveler - Businessman - Student", location pill, short bio in a tinted rounded box. Settings gear top-right.
 - Stats strip: 3 columns inside a white card (Saved 12, Bookings 5, Inquiries 3) each with tinted icon and bold number.
@@ -84,19 +84,19 @@ Commerce home extras: delivery location selector at top ("Deliver to Home - 42, 
 
 - List of cards, each with a coloured tinted icon (check = green confirmed, calendar = blue reminder, megaphone = primary announcement, alert = amber update), bold title, 1-2 line muted body, relative time right or below. Unread items have a small primary dot or slightly tinted background.
 
-## 9. Schedule / timetable
+## 9. Schedule / timetable (reference: `mobile-absensiswa-attendance-10-screens.jpg`)
 
 - Horizontal week strip (Mon-Sun with date), selected day solid primary tile.
 - Entries as cards: coloured subject icon tile (each subject has its own tint), subject name 15/600, time range muted with clock icon, room/teacher line; status pill on the right (Present / Upcoming).
 
-## 10. Attendance / data views
+## 10. Attendance / data views (reference: `mobile-absensiswa-attendance-10-screens.jpg`)
 
 - Summary tiles in a row: Present 18 (green), Sick 1 (amber), Absent 1 (red) with tinted backgrounds and big numbers.
 - Month selector with left/right chevrons.
 - History list rows: date, weekday muted, status pill right; amber/red for non-present.
 - QR check-in: centred QR inside a rounded frame with corner brackets in primary, instruction text, primary "Open Camera" and secondary "Manual Check In" buttons.
 
-## 11. Order tracking and receipts
+## 11. Order tracking and receipts (reference: `mobile-grocery-tracking-order-profile.jpg`)
 
 - Map fills top ~45% with route polyline in brand colour, destination pin, origin store chip, and a floating card "Arriving in 18 min - Distance 2.4 km".
 - Bottom sheet (radius 28 top): order number, "In Progress" pill, step tracker with 4 nodes (Confirmed, Packed, On the way, Delivered) with times, completed nodes filled primary, current node highlighted; courier card with avatar, name, rating, call and chat circle buttons; "View Order Details" row.
